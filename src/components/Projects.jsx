@@ -33,7 +33,7 @@ const Projects = () => {
           <p className="mb-4 text-base">{project.desc}</p>
           <div>
             {project.tech.map((item, i) => (
-              <button key={i} disabled className="px-3 py-1 mr-2 bg-[#111] text-white text-sm">{item}</button>
+              <button key={i} disabled className="px-3 py-1 mr-2 mb-2 bg-[#111] text-white text-sm">{item}</button>
             ))}
           </div>
         </div>
