@@ -45,7 +45,7 @@ Everything is interactive and we can use arrow keys for command history navigati
 
 ## 🌐 Live Preview
 
-[https://your-username.vercel.app](https://your-username.vercel.app)
+[https://ravi-portfolio-drab.vercel.app/](https://ravi-portfolio-drab.vercel.app/)
 
 ---
 
