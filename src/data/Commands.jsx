@@ -1,7 +1,7 @@
 import React from "react";
 import { projects } from "./projects";
-import Help from "../components/help";
-import About from "../components/about";
+import Help from "../components/Help";
+import About from "../components/About";
 import Contact from "../components/Contact";
 import Socials from "../components/Socials";
 import Skills from "../components/Skills";
