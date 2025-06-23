@@ -6,7 +6,7 @@ function Contact() {
       <div className="bg-[#222] p-4 rounded-lg mt-2 mb-3">
         <p className="text-xl text-blue-500 mb-2">Curious to chat or brainstorm? <span className="text-xl text-yellow-500">Don't be a stranger – say hello!</span></p>
 
-        <div className="flex justify-evenly mt-5">
+        <div className="flex justify-evenly mt-5 flex-wrap">
         <a href="mailto:inforavimani@gmail.com">
             <button className="px-4 py-2 mr-2 bg-[#111] text-white text-sm">Email me</button>
         </a>
