@@ -22,7 +22,7 @@ export const projects = [
     },
     {
         name : "Portfolio Terminal",
-        github : "https://github.com/ravimani1001/Subscription-api.git",
+        github : "https://github.com/ravimani1001/Terminal-Portfolio.git",
         livelink : "",
         desc : "You’re looking at it right now!",
         tech : ["React.js" , "Tailwind CSS"]
