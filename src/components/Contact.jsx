@@ -8,16 +8,16 @@ function Contact() {
 
         <div className="flex justify-evenly mt-5 flex-wrap">
         <a href="mailto:inforavimani@gmail.com">
-            <button className="px-4 py-2 mr-2 bg-[#111] text-white text-sm">Email me</button>
+            <button className="px-4 py-2 mr-2 mb-2 bg-[#111] text-white text-sm">Email me</button>
         </a>
         <a href="https://linkedin.com/in/ravimani17" target="_blank">
-            <button className="px-4 py-2 mr-2 bg-[#111] text-white text-sm">LinkedIn</button>
+            <button className="px-4 py-2 mr-2 mb-2 bg-[#111] text-white text-sm">LinkedIn</button>
         </a>
         <a href="https://github.com/ravimani1001" target="_blank">
-            <button className="px-4 py-2 mr-2 bg-[#111] text-white text-sm">GitHub</button>
+            <button className="px-4 py-2 mr-2 mb-2 bg-[#111] text-white text-sm">GitHub</button>
         </a>
         <a href="tel:+919369066188">
-            <button className="px-4 py-2 mr-2 bg-[#111] text-white text-sm">+91 9369066188</button>
+            <button className="px-4 py-2 mr-2 mb-2 bg-[#111] text-white text-sm">+91 9369066188</button>
         </a>
         </div>
         
