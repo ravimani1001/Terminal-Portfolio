@@ -157,6 +157,11 @@ export const commandList = {
     return <div>Resume opened</div>;
   },
 
+  chat: () => {
+    window.open("https://ravi-ai-assistant.vercel.app/", "_blank");
+    return <div>Chatbot opened!</div>;
+  },
+
   hidden: () => {
     
     return <div>

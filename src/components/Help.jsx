@@ -30,6 +30,9 @@ function Help() {
           <strong className='font-bold text-blue-500'>resume</strong> - Open my resume
         </li>
         <li>
+          <strong className='font-bold text-blue-500'>chat</strong> - Open Ravi's AI assistant
+        </li>
+        <li>
           <strong className='font-bold text-blue-500'>hidden</strong> - Show hidden commands
         </li>
       </ul>
