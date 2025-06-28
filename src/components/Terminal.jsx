@@ -49,7 +49,7 @@ const Terminal = () => {
       {/* Terminal Body */}
       <div
         ref={terminalRef}
-        className="flex-1 px-4 py-2 overflow-y-auto custom-scroll"
+        className="flex-1 px-4 py-2 overflow-y-auto custom-scroll scroll-smooth"
         id="terminal-body"
       >
         <div className="mb-5">
