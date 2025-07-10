@@ -53,7 +53,7 @@ const Terminal = () => {
         id="terminal-body"
       >
         <div className="mb-5">
-        <p className="text-xl mb-3"><span className="text-yellow-500">Hello, World!</span><span>{" "}</span><span className="text-blue-500">Welcome to Ravi's portfolio.</span></p>
+        <p className="text-xl mb-3"><span className="text-yellow-500">Hello World!</span><span>{" "}</span><span className="text-blue-500">Welcome to Ravi's portfolio.</span></p>
         <p className="text-sm">Type <span className="px-2 py-1 bg-[#222]">help</span> to see all available commands</p>
       </div>
         {history.map((entry, i) => (
