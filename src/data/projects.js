@@ -1,5 +1,12 @@
 export const projects = [
     {
+        name : "AI Powered Meeting Notes Summarizer",
+        github : "https://github.com/ravimani1001/Meeting-notes-summarizer.git",
+        livelink : "https://meeting-notes-summarizer-lake.vercel.app/",
+        desc : "Built and deployed a React.js + Node.js + Express full stack application that generates AI-powered text summaries, delivers them via email using BullMQ-powered background job queues, and ensures high performance under load with k6 testing.",
+        tech : ["React.js", "Tailwind CSS", "Node.js", "Express.js", "Nodemailer","BullMQ" , "Redis" , "Groq SDK" , "K6 Load Testing"]
+    },
+    {
         name : "PrepPilot- AI Powered Interview Preparation Platform",
         github : "https://github.com/ravimani1001/PrepPilot-frontend.git",
         livelink : "https://prep-pilot-chi.vercel.app",
