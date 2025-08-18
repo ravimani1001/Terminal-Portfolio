@@ -23,7 +23,7 @@ const Projects = () => {
             {project.livelink != "" ? <span>
             <a
               className="text-blue-500 underline"
-              href="https://prep-pilot-chi.vercel.app"
+              href={project.livelink}
               target="_blank"
             >
               Live
