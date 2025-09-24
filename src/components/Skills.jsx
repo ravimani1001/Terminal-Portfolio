@@ -8,9 +8,9 @@ const Skills = () => {
         <div className="bg-[#111] p-4 rounded-lg">
           <p className="text-lg text-blue-500 mb-2">Languages</p>
           <ul className="list-disc pl-4 space-y-1 text-base">
-            <li>JavaScript</li>
             <li>C++</li>
-            <li>Java</li>
+            <li>JavaScript</li>
+            <li>Python</li>
           </ul>
         </div>
 
@@ -19,6 +19,8 @@ const Skills = () => {
           <ul className="list-disc pl-4 space-y-1 text-base">
             <li>Node.js</li>
             <li>Express.js</li>
+            <li>Flask</li>
+            <li>FastAPI</li>
             <li>React.js</li>
             <li>Next.js</li>
             <li>Tailwind CSS</li>
