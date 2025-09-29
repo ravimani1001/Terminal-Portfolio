@@ -153,7 +153,7 @@ export const commandList = {
   },
 
   resume: () => {
-    window.open("https://drive.google.com/file/d/1mOKJpzwnIXO9sYn_bvg0ovKKNEua_9Tb/view?usp=drive_link", "_blank");
+    window.open("https://drive.google.com/file/d/1Qq5VtfxKQPQO5tMEcWGNsiP-d3zvPm01/view?usp=sharing", "_blank");
     return <div>Resume opened</div>;
   },
 
